@@ -1,5 +1,5 @@
 # Front-End-Web-Developer-Nanodegree
-This Portfolio is a Project for every student of the Front-End Web Nano Degree Scholarship to show our projects.
+This Portfolio is a Project for every student of the Front-End Web Nano Degree to show my projects.
 
 ## Check the Project
   
