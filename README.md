@@ -3,7 +3,7 @@ This Portfolio is a Project for every student of the Front-End Web Nano Degree S
 
 ## Check the Project
   
-  Click here: https://jvincent3.github.io/Udacity-Portfolio/
+  Click here: https://aparnagandhe.github.io/Front-End-Web-Developer-Nanodegree/
 
 ## Goals
 
