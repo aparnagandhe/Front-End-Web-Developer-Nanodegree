@@ -6,4 +6,4 @@ This Portfolio is a Project for every student of the Front-End Web Nano Degree t
   Click here: https://aparnagandhe.github.io/Front-End-Web-Developer-Nanodegree/
 
 
-![portfolio](img/design-mockup-portfolio.pdf)
+![portfolio](img/ddesign-mockup-portfolio.pdf)
